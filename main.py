@@ -12,6 +12,6 @@ FloatLayout:
 
 class Myapp(MDApp):
     def build(self):
-        return Builder.load_string(KV)
+        pass
 
 Myapp().run()

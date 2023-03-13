@@ -1,13 +1,7 @@
 from kivymd.app import MDApp
 from kivy.lang import Builder
 
-KV = """
-FloatLayout:
-    MDRaisedButton:
-        text: 'CLIQUE'
 
-
-"""
 
 
 class Myapp(MDApp):
